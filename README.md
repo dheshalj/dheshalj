@@ -3,9 +3,9 @@
 ### Hi there, I'm Dheshal
 
 [![dheshal.com](https://img.shields.io/static/v1?label=dheshal.com&message=%20&color=white&logo=&style=flat-square&logoColor=white)](https://www.dheshal.com/)
-[![Instagram](https://img.shields.io/static/v1?label=Discord&message=%20&color=7289da&logo=Discord&style=flat-square&logoColor=white)](https://www.instagram.com/dheshalj/)
-[![dheshal.j@gmail.com](https://img.shields.io/static/v1?label=dev@dheshal.com&message=%20&color=EA4335&logo=gmail&style=flat-square&logoColor=white)](mailto:dev@dheshal.com)
+[![Instagram](https://img.shields.io/static/v1?label=Discord&message=%20&color=7289da&logo=Discord&style=flat-square&logoColor=white)](https://discordapp.com/users/796661399366795265/)
+[![dheshal.j@gmail.com](https://img.shields.io/static/v1?label=dheshal.j@gmail.com&message=%20&color=EA4335&logo=gmail&style=flat-square&logoColor=white)](mailto:dheshal.j@gmail.com)
 
-👨‍💻 I’m a Game Developer
-👨‍🎓 Studying Computer Science
+👨‍💻 I’m a Game Developer<br>
+👨‍🎓 Studying Computer Science<br>
 🚧 **Current Project:** [Caldera Engine](https://github.com/dheshalj/Caldera)
