@@ -6,6 +6,6 @@
 [![Instagram](https://img.shields.io/static/v1?label=Discord&message=%20&color=7289da&logo=Discord&style=flat-square&logoColor=white)](https://discordapp.com/users/796661399366795265/)
 [![dheshal.j@gmail.com](https://img.shields.io/static/v1?label=dheshal.j@gmail.com&message=%20&color=EA4335&logo=gmail&style=flat-square&logoColor=white)](mailto:dheshal.j@gmail.com)
 
-👨‍💻 I’m a Software Developer<br>
+👨‍💻 I’m a Software Engineer<br>
 👨‍🎓 Studying Computer Science<br>
 🚧 **Current Project:** [**](**)
