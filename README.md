@@ -8,4 +8,4 @@
 
 👨‍💻 I’m a Software Engineer<br>
 👨‍🎓 Studying Computer Science<br>
-🚧 **Current Project:** ([dheshalj/wellerman](https://github.com/dheshalj/wellerman))
+🚧 **Current Project:** ([dheshalj/kenway](https://github.com/dheshalj/kenway))
