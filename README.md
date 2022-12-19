@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dheshal&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dheshalj&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
 ### Hi there, I'm Dheshal
 
@@ -8,4 +8,4 @@
 
 👨‍💻 I’m a Software Engineer<br>
 👨‍🎓 Studying Computer Science<br>
-🚧 **Current Project:** ([dheshal/kenway](https://github.com/dheshal/kenway))
+🚧 **Current Project:** ([dheshalj/kenway](https://github.com/dheshalj/kenway))
