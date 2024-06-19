@@ -11,7 +11,8 @@
 
 👨‍💻 I’m a passionate Full-Stack Developer based in Sri Lanka<br>
 👨‍🎓 Studying Computer Science<br>
-🚧 **Current Project:** ([dheshalj/kenway](https://github.com/dheshalj/kenway))
+🚧 **Current Project:** ([dheshalj/kenway](https://github.com/dheshalj/kenway))<br>
+🔐 Most work is private
 
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheshalj&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
