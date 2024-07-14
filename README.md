@@ -6,7 +6,7 @@
 [![dheshal.com](https://img.shields.io/static/v1?label=Website&message=%20&color=white&logo=&logoColor=white)](https://www.dheshal.com/)
 [![dheshal.j@gmail.com](https://img.shields.io/static/v1?label=Gmail&message=%20&color=EA4335&logo=gmail&logoColor=white)](mailto:dheshal.j@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheshal/)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=E4405F&logo=instagram&logoColor=white)](https://discord.com/users/796661399366795265)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/dheshalj/)
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=%20&color=5865F2&logo=discord&logoColor=white)](https://discord.com/users/796661399366795265)
 
 👨‍💻 I’m a passionate Full-Stack Developer based in Sri Lanka<br>
