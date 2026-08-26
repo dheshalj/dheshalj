@@ -9,9 +9,6 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/dheshalj/)
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=%20&color=5865F2&logo=discord&logoColor=white)](https://discord.com/users/796661399366795265)
 
-👨‍💻 Team Lead @ [Ellexis Tech](https://ellexis.lk), based in Colombo, Sri Lanka<br>
-🔐 Most work is private
-
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheshalj&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
 
